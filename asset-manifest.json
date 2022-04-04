@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iron_gate_cleaning/static/css/main.073c9b0a.css",
+    "main.js": "/iron_gate_cleaning/static/js/main.3905b85e.js",
+    "static/js/787.1536af72.chunk.js": "/iron_gate_cleaning/static/js/787.1536af72.chunk.js",
+    "static/media/logo.svg": "/iron_gate_cleaning/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/iron_gate_cleaning/index.html",
+    "main.073c9b0a.css.map": "/iron_gate_cleaning/static/css/main.073c9b0a.css.map",
+    "main.3905b85e.js.map": "/iron_gate_cleaning/static/js/main.3905b85e.js.map",
+    "787.1536af72.chunk.js.map": "/iron_gate_cleaning/static/js/787.1536af72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3905b85e.js"
+  ]
+}
